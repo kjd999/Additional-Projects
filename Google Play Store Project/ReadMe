@@ -1,1 +1,17 @@
 
+This project attempts to predict the number of downloads for apps in the Google Play Store based on a number of different features.
+This folder contains the following files:
+
+googleplaystore.csv              The original dataset                
+
+google_play_final.csv            The cleaned dataset with all of the app names 
+
+google_play_final_ML.csv         The same cleaned dataset but without the app names. Ready for machine learning.
+
+GooglePlayPred.ipynb             The walkthrough and code for the project, including cleaning, EDA, model selection and tuning.          
+
+
+
+
+
+
