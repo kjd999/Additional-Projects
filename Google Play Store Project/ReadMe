@@ -8,7 +8,7 @@ google_play_final.csv            The cleaned dataset with all of the app names
 
 google_play_final_ML.csv         The same cleaned dataset but without the app names. Ready for machine learning.
 
-GooglePlayPred.ipynb             The walkthrough and code for the project, including cleaning, EDA, model selection and tuning.          
+GooglePlayPred.ipynb             The walkthrough and code for the project, including cleaning, EDA, model selection, and tuning.          
 
 
 
