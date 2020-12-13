@@ -1,4 +1,5 @@
 A collection of chapter summaries, slides, and coding exercises from a Hands-on Machine Learning course that I'm currently assisting. 
+The complete collection of HOML material can be found at https://github.com/nbwosm/homl_fds
 
 
 Ch7_exercise8_kjd.ipynb                                           Coding exercise 8 from chapter 7
@@ -13,6 +14,12 @@ Chp5_exercise10_kjd.ipynb                                         Coding exercis
 
 Chp5_exercise8_kjd.ipynb                                          Coding exercise 8 from chapter 5
 
+Chp9_exercise10_kjd.ipynb                                         Coding exercise 10 from chapter 9                          
+
 HOML Ch4 Logistic Regression.pdf                                  Slides of chapter 4
 
 HOML Ch7 Ensemble Learning and Random Forests.pdf                 Slides of chapter 7       
+
+HOML Ch9 Unsupervised Learning Clustering.pdf                     Slides of the clustering section of chapter 9
+
+HOML Ch 1-9 Essential Concepts.pdf                                Important concepts, definitions, and tips from the first 9 chapters.
