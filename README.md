@@ -1,2 +1,2 @@
-# Projects
+# Additional Projects
 Post-Springboard projects
