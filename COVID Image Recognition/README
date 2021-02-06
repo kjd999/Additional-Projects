@@ -1,1 +1,7 @@
+This ongoing project attempts to distinguish among images of chest x-rays of COVID, viral pneumonia, and healthy patients. 
+Over the course of the project, we will be developing several inital models, which will be whittled down to just one model. 
+The remaining model will then be tuned to achieve the highest accuracy possible.
 
+This folder contains the following files:
+
+COVID Intial Model.ipynb                      Initial model with very few layers that achieved over 90% accuracy.
