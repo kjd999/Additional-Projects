@@ -18,9 +18,11 @@ Chp9_exercise10_kjd.ipynb                                         Coding exercis
 
 Chp9_exercise12_kjd.ipynb                                         Coding exercise 12 from chapter 9 - Olivetti faces; image modification; Gaussian mixture/PCA
 
-Chp10_exercise6_kjd.pdf                                           Conceptual exercise 6 from chapter 10 - multilayer perceptron (MLP_
+Chp10_exercise6_kjd.pdf                                           Conceptual exercise 6 from chapter 10 - multilayer perceptron (MLP)
 
 Chp10_exercise10_kjd.ipnyb                                        Coding exercise 10 from chapter 10 - MNIST dataset; MLP/optimial learning rate
+
+Chp11_exercise8-kjd.ipnyb                                         Coding exercise 8 from chapter 11 - CIFAR10 dataset; Nadam/SELU/BatchNorm/AlphaDrop/MCDrop/1cycle 
 
 HOML Ch4 Logistic Regression.pdf                                  Slides of chapter 4 - logistic regression
 
