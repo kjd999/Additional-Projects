@@ -2,30 +2,30 @@ A collection of chapter summaries, slides, and coding exercises from chapters 1-
 The complete collection of HOML material can be found at https://github.com/nbwosm/homl_fds
 
 
-Ch7_exercise8_kjd.ipynb                                           Coding exercise 8 from chapter 7
+Ch7_exercise8_kjd.ipynb                                           Coding exercise 8 from chapter 7 - ensemble classifier vs individual classifiers
  
-Ch7_summary_kjd.pdf                                               Summary of chapter 7    
+Ch7_summary_kjd.pdf                                               Summary of chapter 7 - Ensemble Learning and Random Forests   
 
-Chp3_exercise1_kjd.ipynb                                          Conceptual exercise 1 from chapter 3
+Chp3_exercise1_kjd.ipynb                                          Conceptual exercise 1 from chapter 3 - KNN on MNIST; grid search hyperparameter tuning
 
-Chp4_exercise11_kjd .pdf                                          Coding exercise 11 from chapter 4
+Chp4_exercise11_kjd .pdf                                          Conceptual exercise 11 from chapter 4 - logistic vs softmax regression
 
-Chp5_exercise10_kjd.ipynb                                         Coding exercise 10 from chapter 5   
+Chp5_exercise10_kjd.ipynb                                         Coding exercise 10 from chapter 5 - SVM regressor on California housing dataset
 
-Chp5_exercise8_kjd.ipynb                                          Coding exercise 8 from chapter 5
+Chp5_exercise8_kjd.ipynb                                          Coding exercise 8 from chapter 5 - LinearSVC/SVC/SGDClassifier on linearly seperable set
 
-Chp9_exercise10_kjd.ipynb                                         Coding exercise 10 from chapter 9   
+Chp9_exercise10_kjd.ipynb                                         Coding exercise 10 from chapter 9 - Olivetti faces dataset; stratified sampling/K-Means
 
-Chp9_exercise12_kjd.ipynb                                         Coding exercise 12 from chapter 9   
+Chp9_exercise12_kjd.ipynb                                         Coding exercise 12 from chapter 9 - Olivetti faces; image modification; Gaussian mixture/PCA
 
-Chp10_exercise6_kjd.pdf                                           Conceptual exercise 6 from chapter 10
+Chp10_exercise6_kjd.pdf                                           Conceptual exercise 6 from chapter 10 - multilayer perceptron (MLP_
 
-Chp10_exercise10_kjd.ipnyb                                        Coding exercise 10 from chapter 10 
+Chp10_exercise10_kjd.ipnyb                                        Coding exercise 10 from chapter 10 - MNIST dataset; MLP/optimial learning rate
 
-HOML Ch4 Logistic Regression.pdf                                  Slides of chapter 4
+HOML Ch4 Logistic Regression.pdf                                  Slides of chapter 4 - logistic regression
 
-HOML Ch7 Ensemble Learning and Random Forests.pdf                 Slides of chapter 7       
+HOML Ch7 Ensemble Learning and Random Forests.pdf                 Slides of chapter 7 - random ofrests/ensemble learning      
 
-HOML Ch9 Unsupervised Learning Clustering.pdf                     Slides of the clustering section of chapter 9
+HOML Ch9 Unsupervised Learning Clustering.pdf                     Slides of the clustering section of chapter 9 - unsupervised learning/clustering
 
-HOML Ch 1-9 Essential Concepts.pdf                                Important concepts, definitions, and tips from the first 9 chapters.
+HOML Ch 1-9 Essential Concepts.pdf                                Important concepts, definitions, and tips from the first 9 chapters. - Fundamentals of Machine Learning
