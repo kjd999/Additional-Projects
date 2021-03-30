@@ -24,6 +24,10 @@ Chp10_exercise10_kjd.ipnyb                                        Coding exercis
 
 Chp11_exercise8-kjd.ipnyb                                         Coding exercise 8 from chapter 11 - CIFAR10 dataset; Nadam/SELU/BatchNorm/AlphaDrop/MCDrop/1cycle 
 
+Chp12_exercise12_kjd.ipynb                                        Coding exercise 12 from chapter 12 - Custom Layer Normalization
+
+Chp12_exercise13_kjd.ipynb                                        Coding exercise 12 from chapter 13 - Custom training loop on Fashion MNIST
+
 HOML Ch4 Logistic Regression.pdf                                  Slides of chapter 4 - logistic regression
 
 HOML Ch7 Ensemble Learning and Random Forests.pdf                 Slides of chapter 7 - random ofrests/ensemble learning      
