@@ -6,5 +6,6 @@ This folder contains the following files:
 
 COVID Intial Model.ipynb                      Initial model with very few layers that achieved over 90% accuracy.
 
-
 COVID_Pretrained_Models_First_Run.ipynb       Training and testing with pretrained models including ResNest50, DenseNet169, VGG16, InceptionV3, and InceptionResNetV2.
+
+COVID Final Model                             Determining the best model based on accuracy after tuning. 
