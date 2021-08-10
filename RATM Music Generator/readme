@@ -1,1 +1,9 @@
+The purpose of this project is to develop a recurrent neural network (RNN) model that generates music; 
+specifically, it generates music after having been trained on popular 1990's band Rage Against the Machine (RATM). 
 
+There are two files in this folder:
+
+
+RATM_Music_Generator.ipynb                        The notebook containing the code for the RNN model.
+
+ratm_rnn sample.mp3                               An mp3 file of the best sample that the model generated.   
